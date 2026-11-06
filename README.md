@@ -129,7 +129,10 @@ Arabic (native) · English (full professional proficiency) · French (limited wo
 
 <div align="center">
 
-![Mays's GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=maysasfour&bg_color=0d1117&color=c4b5fd&line=a78bfa&point=ffffff&area=true&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maysasfour/maysasfour/contribution-snake/snake-dark.svg">
+  <img alt="Animated snake across Mays’s GitHub contribution grid" src="https://raw.githubusercontent.com/maysasfour/maysasfour/contribution-snake/snake.svg">
+</picture>
 
 </div>
 
